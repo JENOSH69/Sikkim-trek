@@ -1,5 +1,5 @@
 // src/pages/blogPosts/TopTreksWestSikkim.jsx
-import yambung from '../../assets/yambung.jpeg';
+import yambung from "../../assets/yambung1.jpeg"; // ✅ adjust the filename
 
 export default function TopTreksWestSikkim() {
   return (
