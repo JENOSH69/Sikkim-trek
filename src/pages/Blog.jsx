@@ -1,9 +1,9 @@
 // src/pages/Blog.jsx
 import React from "react";
 import { BookOpenIcon, CalendarIcon } from "@heroicons/react/24/outline";
-import trek1 from "../assets/yambung.jpeg";
+import trek1 from "../assets/singilila1.jpeg";
 import trek2 from "../assets/yambung1.jpeg";
-import trek3 from "../assets/yambung2.jpeg";
+import trek3 from "../assets/yambung3.jpeg";
 import Footer from "../components/Footer";
 
 const blogPosts = [
